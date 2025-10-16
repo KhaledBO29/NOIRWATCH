@@ -24,21 +24,21 @@ STYLES = {
     },
     "Verde": {
         "bg": "#002b1f",
-        "dial": "#003322",
+        "dial": "#380066",
         "marks": "#e9e9e9",
         "hour": "#ffffff",
         "minute": "#ccffcc",
         "second": "#ff3333",
         "gmt": "#66ff66"
     },
-    "Azul": {
-        "bg": "#001f3f",
+    "Morado": {
+        "bg": "#2b003f",
         "dial": "#002b66",
         "marks": "#f0f0f0",
-        "hour": "#66ccff",
-        "minute": "#99ddff",
-        "second": "#ff3333",
-        "gmt": "#3399ff"
+        "hour": "#ba66ff",
+        "minute": "#ba66ff",
+        "second": "#38014e",
+        "gmt": "#9c33ff"
     }
 }
 
